@@ -1,0 +1,5 @@
+{
+    "server_port": 8080,
+    "snowflake_dsn": "your_snowflake_dsn_here"
+  }
+  
